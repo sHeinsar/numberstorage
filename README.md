@@ -63,5 +63,6 @@ or
 ```bash
 Run the tests from your IDE
 ```
+![image](https://github.com/user-attachments/assets/acd22ef5-8fbd-45d1-8a88-52c09f795efb)
 
 ---
