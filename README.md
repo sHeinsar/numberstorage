@@ -65,5 +65,3 @@ Run the tests from your IDE
 ```
 
 ---
-
-Happy Coding!
