@@ -44,10 +44,10 @@ Run the application from Application.Java
 ## Usage
 
 ### Adding Numbers
-POST endpoint /numbers accepts an array of integers in request body,
-![image](https://github.com/user-attachments/assets/7ec3575f-2604-4e29-b751-33b149813c05)
-
-![image](https://github.com/user-attachments/assets/446f3dda-93aa-4b05-a98f-586a84cb52cd)
+POST endpoint /numbers accepts an array of integers in request body
+{
+  "numbers": [1, 2, 3, 4, 5]
+}
 
 
 
@@ -63,6 +63,5 @@ or
 ```bash
 Run the tests from your IDE
 ```
-![image](https://github.com/user-attachments/assets/acd22ef5-8fbd-45d1-8a88-52c09f795efb)
 
 ---
